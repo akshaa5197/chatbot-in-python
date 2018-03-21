@@ -1,2 +1,2 @@
 # chatbot-in-python
-price negotiator
+price negotiator in python
